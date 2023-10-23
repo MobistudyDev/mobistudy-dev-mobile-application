@@ -38,7 +38,8 @@ module.exports = {
     // allow paren-less arrow functions
     'arrow-parens': 'off',
     'one-var': 'off',
-
+    "template-curly-spacing" : "off",
+    "indent" : "off",
     'import/first': 'off',
     'import/named': 'error',
     'import/namespace': 'error',
