@@ -1,4 +1,5 @@
 export default {
+  _key: '1978',
   teamKey: '1608',
   invitationCode: '696174',
   invitational: true,
